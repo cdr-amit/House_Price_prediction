@@ -1,4 +1,4 @@
-# ML_Project
+# House Price Prediction using Boston housing dataset
 
 ### Software and Tool Requirements
 
